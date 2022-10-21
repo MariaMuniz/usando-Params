@@ -1,4 +1,4 @@
-# Porjeto exemplo do uso Params react.
+# Projeto exemplo do uso Params react.
 
 
 
